@@ -1,0 +1,5 @@
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Lista21082017ex12/obj/x86/Debug/Lista21082017ex12.csproj.CoreCompileInputs.cache
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Lista21082017ex12/bin/Debug/Lista21082017ex12.exe
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Lista21082017ex12/bin/Debug/Lista21082017ex12.pdb
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Lista21082017ex12/obj/x86/Debug/Lista21082017ex12.exe
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Lista21082017ex12/obj/x86/Debug/Lista21082017ex12.pdb
