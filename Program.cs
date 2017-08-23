@@ -27,10 +27,10 @@ namespace Lista21082017ex12
             if (saldoAtual < 0) {
 			    Console.WriteLine("Saldo Negativo.");
                 saldoAtualNeg = Math.Abs(saldoAtual);
-                Console.WriteLine("O saldo atual é: - R$ {0:###,##0.00}", saldoAtualNeg);
+                Console.WriteLine("O saldo atual da conta {1} é: - R$ {0:###,##0.00}", saldoAtualNeg, numeroConta);
             } else {
                 Console.WriteLine("Saldo Positivo.");
-                Console.WriteLine("O saldo atual é: R$ {0:###,##0.00}", saldoAtual);
+                Console.WriteLine("O saldo atual da conta {1} é: R$ {0:###,##0.00}", saldoAtual, numeroConta);
             }
 
             Console.ReadKey();
